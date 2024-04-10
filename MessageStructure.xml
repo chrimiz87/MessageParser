@@ -1,0 +1,18 @@
+<!-- input message format -->
+<messageformats>
+  <headerformat>
+    <messageformatID> 1 </messageformatID>
+    <errorflag> 1 </errorflag>
+  </headerformat>
+  <bodyformat1>
+    <value1>16</value1>
+    <value2> 2 </value2>
+    <value3> 2 </value3>
+  </bodyformat1>
+  <!-- output message format -->
+  <bodyformat2>
+    <value1>4</value1>
+    <value2>4</value2>
+    <value3>4</value3>
+  </bodyformat2>
+</messageformats>
